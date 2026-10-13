@@ -1,0 +1,1 @@
+# OT-IT-Zero-Trust-Network-Edge-SCADA-Monitor
